@@ -10,8 +10,7 @@
 
 ## 🌟 About Me
 
-I am an enthusiastic **AI/ML developer** passionate about building intelligent systems, real-time computer vision applications, and data-driven dashboards.  
-I enjoy solving real-world problems using Python, machine learning, deep learning, and analytics.
+I am an enthusiastic **AI/ML developer** passionate about building intelligent systems, real-time computer vision applications, and data-driven dashboards. I enjoy solving real-world problems using Python, machine learning, deep learning, and analytics.
 
 I have hands-on experience in:
 - Machine Learning  

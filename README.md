@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Vedant Swami</h1>
 
 <p align="center">
-  🤖 AI & Machine Learning Developer | 🧠 Computer Vision | 📊 Data Analytics  
+  🚀 AI & Machine Learning Enthusiast | Software Developer | Data Analyst  
   <br>
-  🎓 B.Tech in Computer Engineering (2022–2026) | 📍 Pune, India  
+  📍 Pune, India | 🎓 B.Tech in CSE (2020–2026)
 </p>
 
 ---

@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Vedant Swami
 
-<!--
-**Ved203/Ved203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | DSA | ML | Cloud (AWS)  
+🎓 Computer (Regional) Department
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech & Tools
+**Languages:** C++, Python, Java  
+**DSA:** Arrays, LinkedList, Trees, Graphs, DP  
+**ML / Data:** Pandas, scikit-learn, matplotlib  
+**Cloud:** AWS EC2, S3, IAM  
+**Tools:** Git, VS Code, Jupyter
+
+---
+
+## 🔭 Featured Projects
+- **House Price Prediction (Pune dataset)** — Regression model + EDA  
+- **House Price Prediction (Ghana dataset)** — Data preparation + ML  
+- **PathFinder_AI** — Learning path recommendation assistant  
+
+---
+
+## 📊 GitHub Stats
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ved203&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved203&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+- LinkedIn: (add link)
+- Email: (add email)
+
+

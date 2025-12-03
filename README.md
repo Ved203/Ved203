@@ -35,33 +35,11 @@ I have hands-on experience in:
 
 ---
 
-## 🚀 Projects
-
-### 🔹 **HandsFreeAI – AI-Based Hands-Free Assistive System**  
-*Tech: Python, OpenCV, Dlib, AI, SpeechRecognition, Groq API*
-
-- Built an AI system enabling **computer control without hands**  
-- Implemented **real-time eye tracking** for cursor movement  
-- Added **blink detection** for click actions  
-- Integrated **voice command control** for accessibility  
-- Connected **Generative AI (Groq API)** for intelligent responses  
-
----
-
-### 🔹 **HR Analytics on Employee Attrition**  
-*Tech: Power BI, Excel*
-
-- Designed a Power BI dashboard to analyze **attrition trends & KPIs**  
-- Cleaned, transformed, and modeled HR datasets in Excel  
-- Added interactive filters & slicers for better insights  
-
----
-
 ## 📄 Research Publication
 
 ### **Fingerprint-Based Blood Group Classification Using Deep Learning Algorithms**  
 *Journal of Technology, Vol. 13, Issue 7, July 2025* • *Co-authored*  
-📎 *Paper Link*
+📎 *[Paper Link](https://drive.google.com/file/d/1z3P45rWLc6IP6bMfYCUgz9r7TFqwJOFc/view)*
 
 - Developed a **CNN-based model** to classify blood groups from fingerprint images  
 - Identified correlations between fingerprint ridge patterns & blood groups  

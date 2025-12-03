@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI & Machine Learning Enthusiast | Software Developer | Data Analyst</b><br>
-  📍 Pune, India | 🎓 B.Tech in Computer Engineering (2022–2026)
+         🎓 B.Tech in Computer Engineering (2022–2026)
 </p>
 
 ---
